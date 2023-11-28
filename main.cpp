@@ -71,7 +71,7 @@ void Circle::setRedColor() {
 int main(int argc, char *argv[]) {
 	QApplication app(argc, argv);
 	auto* window = new QWidget;
-	QWidget* circle = new Circle(window);
+	auto* circle = new Circle(window);
 	circle->setFixedSize(200, 200);
 	auto* slider = new QSlider(Qt::Horizontal, window);
 	slider->setMinimum(0);
@@ -85,13 +85,13 @@ int main(int argc, char *argv[]) {
 	window->move(1000, 500);
 
 	QObject::connect(slider, &QSlider::valueChanged,
-					 [&slider, &circle](int newValue){
+					 [&](int newValue) {
 						 if (newValue >= 0 && newValue <= 33) {
-							&Circle::setGreenColor;
+							 circle->setGreenColor();
 						 } else if (newValue > 33 && newValue <= 66) {
-							&Circle::setYellowColor;
+							 circle->setYellowColor();
 						 } else {
-							&Circle::setRedColor;
+							 circle->setRedColor();
 						 }
 						});
 
