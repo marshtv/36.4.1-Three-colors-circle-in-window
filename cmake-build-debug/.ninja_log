@@ -1,0 +1,11 @@
+# ninja log v5
+3883	4308	7229011287551816	36_4_1_Three_colors_Circle_in_window.exe	13801c74b9c61c96
+8	116	7226989818826252	F:/__C++/Skillbox/36 Qt Widgets/36.4.1 Three colors Circle in window/cmake-build-debug/36_4_1_Three_colors_Circle_in_window_autogen/timestamp	7d3d475404208889
+8	116	7226989818826252	36_4_1_Three_colors_Circle_in_window_autogen/timestamp	7d3d475404208889
+15	127	7226951974849560	36_4_1_Three_colors_Circle_in_window_autogen/mocs_compilation.cpp	7d3d475404208889
+15	127	7226951974849560	F:/__C++/Skillbox/36 Qt Widgets/36.4.1 Three colors Circle in window/cmake-build-debug/36_4_1_Three_colors_Circle_in_window_autogen/mocs_compilation.cpp	7d3d475404208889
+7	73	7226992203999342	CMakeFiles/36_4_1_Three_colors_Circle_in_window.dir/36_4_1_Three_colors_Circle_in_window_autogen/mocs_compilation.cpp.obj	a6a0744cd4ef008d
+1	498	7229012297905392	build.ninja	49085d29c2aec103
+7	3883	7229011285643784	CMakeFiles/36_4_1_Three_colors_Circle_in_window.dir/main.cpp.obj	f9f32028bd51a8f8
+10	3927	7229012353767886	CMakeFiles/36_4_1_Three_colors_Circle_in_window.dir/main.cpp.obj	f9f32028bd51a8f8
+3927	4353	7229012355615981	36_4_1_Three_colors_Circle_in_window.exe	13801c74b9c61c96

@@ -1,0 +1,7 @@
+F:/__C++/Skillbox/36 Qt Widgets/36.4.1 Three colors Circle in window/cmake-build-debug/CMakeFiles/36_4_1_Three_colors_Circle_in_window.dir
+F:/__C++/Skillbox/36 Qt Widgets/36.4.1 Three colors Circle in window/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/__C++/Skillbox/36 Qt Widgets/36.4.1 Three colors Circle in window/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/__C++/Skillbox/36 Qt Widgets/36.4.1 Three colors Circle in window/cmake-build-debug/CMakeFiles/36_4_1_Three_colors_Circle_in_window_autogen_timestamp_deps.dir
+F:/__C++/Skillbox/36 Qt Widgets/36.4.1 Three colors Circle in window/cmake-build-debug/CMakeFiles/36_4_1_Three_colors_Circle_in_window_autogen.dir
+F:/__C++/Skillbox/36 Qt Widgets/36.4.1 Three colors Circle in window/cmake-build-debug/Pixmaps/CMakeFiles/edit_cache.dir
+F:/__C++/Skillbox/36 Qt Widgets/36.4.1 Three colors Circle in window/cmake-build-debug/Pixmaps/CMakeFiles/rebuild_cache.dir
